@@ -17,22 +17,22 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <plurals name="n_folders">
         <item quantity="one">1 carpeta</item>
-        <item quantity="other"><xliff:g id="folders">%1$d</xliff:g> carpetas</item>
+        <item quantity="other"><xliff:g id="folders">%1$d</xliff:g> carpetes</item>
     </plurals>
     <plurals name="n_files">
-        <item quantity="one">1 archivo</item>
-        <item quantity="other"><xliff:g id="files">%1$d</xliff:g> archivos</item>
+        <item quantity="one">1 ficheru</item>
+        <item quantity="other"><xliff:g id="files">%1$d</xliff:g> ficheros</item>
     </plurals>
     <plurals name="search_found_items">
-        <item quantity="one">1 elemento encontrado</item>
-        <item quantity="other"><xliff:g id="count">%d</xliff:g> elementos encontrados</item>
+        <item quantity="one">1 elementu alcontráu</item>
+        <item quantity="other"><xliff:g id="count">%d</xliff:g> elementos alcontraos</item>
     </plurals>
     <plurals name="selection_folders">
-        <item quantity="one">1 carpeta seleccionada.</item>
-        <item quantity="other"><xliff:g id="folders">%1$d</xliff:g> carpetas seleccionadas.</item>
+        <item quantity="one">1 carpeta esbillada.</item>
+        <item quantity="other"><xliff:g id="folders">%1$d</xliff:g> carpetes esbillaes.</item>
     </plurals>
     <plurals name="selection_files">
-        <item quantity="one">1 archivo seleccionado.</item>
-        <item quantity="other"><xliff:g id="files">%1$d</xliff:g> archivos seleccionados.</item>
+        <item quantity="one">1 ficheru esbilláu.</item>
+        <item quantity="other"><xliff:g id="files">%1$d</xliff:g> ficheros esbillaos.</item>
     </plurals>
 </resources>
