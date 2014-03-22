@@ -27,4 +27,7 @@
 
     <!-- Normal edit text sise -->
     <integer name="default_edit_text_ems">8</integer>
+
+    <!-- Association items per row -->
+    <integer name="associations_items_per_row">3</integer>
 </resources>
